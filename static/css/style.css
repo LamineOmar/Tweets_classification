@@ -1,0 +1,46 @@
+/* CSS */
+body {
+	font-family: 'Arimo', sans-serif;
+	background-color: #f4f4f4;
+  }
+  
+  .login {
+	width: 300px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+	font-family: 'Pacifico', cursive;
+	font-size: 28px;
+	text-align: center;
+	margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	box-sizing: border-box;
+  }
+  
+  button {
+	width: 100%;
+	padding: 10px;
+	background-color: #4a90e2;
+	border: none;
+	border-radius: 3px;
+	color: #fff;
+	font-size: 16px;
+	cursor: pointer;
+  }
+  
+  button:hover {
+	background-color: #357ae8;
+  }
+  
